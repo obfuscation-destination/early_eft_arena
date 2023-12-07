@@ -38,5 +38,9 @@ ERROR: 401004
 - Quickly disable your System Proxy in Windows.
 - Congrats you've booted Arena! Oh wait. You didn't.
 - Your major version is out of sync from server. There was no reason to do any of this.
+- ```
+  EXCEPTION: System.Exception: 232 - Wrong major version
+  ```
 
 The version YOU installed is 0.3.1.27711. The version BSG just used in the tournament was 0.3.1.27750. You cannot play even if you wanted to. Bit of a waste of time and a waste of an account to get banned eh? Rip my accounts, gonna get HWID banned now lol.
+Other two pics in the repo are proof.
